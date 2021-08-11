@@ -1,0 +1,8 @@
+.idea
+__pycache__/
+assets/
+dataset/
+mAP/output/
+trash/
+utils/
+weights/
